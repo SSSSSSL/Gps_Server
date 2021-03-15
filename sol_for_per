@@ -1,0 +1,3 @@
+
+
+sudo adduser $USER dialout
